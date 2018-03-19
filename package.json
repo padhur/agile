@@ -1,0 +1,10 @@
+{
+  "name": "agileboard",
+  "version":"1.0.1",
+  "description": "Agile Board Application for Agile process",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/**/*.js",
+    "app": "node ./app/app.js"
+  }
+}
